@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-http-cache" version="1.0.0">
+  <name>Cordova HTTP cache disabler</name>
+  <description>Cordova plugin to disable caching of HTTP requests and responses.</description>
+  <repo>https://github.com/koenoe/cordova-http-cache.git</repo>
+  <issue>https://github.com/koenoe/cordova-http-cache/issues</issue>
+
+  <!-- android -->
+  <platform name="android">
+  </platform>
+
+  <!-- ios -->
+  <platform name="ios">
+  </platform>
+
+</plugin>
